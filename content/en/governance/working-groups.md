@@ -3,6 +3,8 @@ title: "Working Groups"
 date: 2020-05-04T09:43:26-07:00
 ---
 
+testing
+
 ## Working Groups
 
 Many Open Modeling Foundation activities are guided by Working Groups. Any modeling scientist can join a Working Group. Working Groups will self organize, and nominate a Working Group Chair, for approval by the Members Council. Working Group Chairs serve for a three-year, renewable term.
